@@ -1,0 +1,129 @@
+{
+  "images" : [
+    {
+      "size" : "20x20",
+      "idiom" : "iphone",
+      "filename" : "Icon-small@2x-1.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "20x20",
+      "idiom" : "iphone",
+      "filename" : "Icon-small@3x-1.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "Icon-1.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "Icon@2x-1.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "Icon-40@2x-1.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "size" : "40x40",
+      "scale" : "3x"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "Icon-60@2x-1.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "Icon-60@3x-1.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "1024x1024",
+      "idiom" : "ios-marketing",
+      "filename" : "pong_logo.png",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Icon-40.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-40@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-50.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-50@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-60.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-60@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-60@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-72.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-72@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-76.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-76@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-167.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-small.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-small@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon-small@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "Icon@2x.png",
+      "unassigned" : true
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
